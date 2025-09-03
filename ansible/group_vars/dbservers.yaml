@@ -1,0 +1,4 @@
+db: 
+  name: "mydb"
+  user: "dbuser"
+  password: "pass12345"
